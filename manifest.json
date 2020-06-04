@@ -1,0 +1,26 @@
+{
+  "name": "Demonstração de Angular",
+  "author": {
+    "name": "Zendesk",
+    "email": "rcohen@zendesk.com",
+    "url": "http://www.zendesk.com.br"
+  },
+  "defaultLocale": "en",
+  "private": false,
+  "location": {
+    "support": {
+      "ticket_sidebar": "assets/sidebar.html"
+    }
+  },
+  "parameters": [
+    {
+    "name": "Site",
+    "type": "url",
+    "required": true,
+    "secure": false,
+    "default": ""
+    }
+  ],
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}

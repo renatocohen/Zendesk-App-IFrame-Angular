@@ -1,0 +1,8 @@
+{
+  "app": {
+    "name": "Demonstração Angular Itaú",
+    "short_description": "Aplicativo para demonstrar o uso de uma solução rodando em Angular e sendo chamada por iframe",
+    "long_description": "Aplicativo para demonstrar o uso de uma solução rodando em Angular e sendo chamada por iframe",
+    "installation_instructions": "Basta instalar o aplicativo e substituir o link pelo que estiver rodando na aplicação Angular"
+  }
+}
